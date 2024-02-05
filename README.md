@@ -1,5 +1,5 @@
 HBNB Console and Web Infrastucture
-This repo contains a command interpreter for the Holberton Airbnb project, as well as applications for web deployment. The console can be run from the command line and to create, manipulate, and store class objects in a JSON format or using a MySQL database. You'll also find a series of Flask web applications used for deployment of dynamic web content. In a further [repository[(https://github.com/mmoscovics/AirBnB_clone_v3), I collaborated on building out an API for the site side of the project.
+This repo contains a command interpreter for the  Airbnb clone  project, as well as applications for web deployment. The console can be run from the command line and to create, manipulate, and store class objects in a JSON format or using a MySQL database. You'll also find a series of Flask web applications used for deployment of dynamic web content.
 
 Console
 Supported classes:
@@ -10,6 +10,7 @@ City
 Amenity
 Place
 Review
+
 Commands:
 create - create an object
 show - show an object (based on id)
